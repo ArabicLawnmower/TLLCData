@@ -1318,7 +1318,7 @@ Decoration/Decoration_sign_water
 ;
 NV
 monsters:
--
+Monsters/Monster_maw_meduza
 monster_secret:
 -
 monster_rares:
