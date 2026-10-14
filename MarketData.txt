@@ -1326,3 +1326,4 @@ Decoration/Dog
 structures:
 Structures/Structure_bass
 ;
+
