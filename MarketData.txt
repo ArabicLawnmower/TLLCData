@@ -177,6 +177,8 @@ Monsters/Monster_brump_young
 Monsters/Monster_punkleton_young
 Monsters/Monster_yool_young
 Monsters/Monster_wibbler_young diamonds=10000
+Monsters/Monster_flowerning
+Monsters/Monster_peashooter
 -
 monsters_celestials:
 Monsters/Monster_plixie
@@ -1242,7 +1244,6 @@ Structures/Structure_bakery
 ;
 NV
 monsters:
-Monsters/Monster_maw_meduza
 -
 decorations:
 Decoration/Decoration_test
