@@ -1026,6 +1026,7 @@ str_stars_electricity=Immortal Jolt (Galvana)
 str_stars_poison=Poison's Mark (Scaratar)
 str_stars_shadow=Shadowed Glare (Loodvigg)
 str_stars_plasma=Plasmic Ooze (Plixie)
+str_stars_april_Pvz=Pea Pod Protocol (Peashooter)
 
 str_class_Natural=Natural
 str_class_Natural-r=Natural(rare)
