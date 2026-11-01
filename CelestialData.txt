@@ -2,7 +2,7 @@
 2 fire@Monsters/Monster_furnoss;light@Monsters/Monster_light
 3 cold@Monsters/Monster_glaishur;psychic@Monsters/Monster_psychic
 4 plant@Monsters/Monster_blasoom;light@Monsters/Monster_light
-5 crystal@Monsters/Monster_syncopite;bone@Monsters/Monster_bone
+5 crystal@Monsters/Monster_syncopite;bone@Monsters/Monster_bone;april_Pvz@Monsters/Monster_peashooter
 6 mech@Monsters/Monster_vhamp;psychic@Monsters/Monster_psychic
 7 electrcity@Monsters/Monster_galvana;faerie@Monsters/Monster_faerie
 8 poison@Monsters/Monster_scaratar;faerie@Monsters/Monster_faerie
