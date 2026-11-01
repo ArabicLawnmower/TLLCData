@@ -129,6 +129,7 @@ Monsters/Monster_keytrus_rare=Rare Keytrus
 Monsters/Monster_keytrus_rare_bio=The Rare Keytrus is a wonderful creature of them all..via the power of the Limes, they have successfully converted themselves to Lime'oxotic! ...Who am I kidding, they've just painted themselves green.
 str_island_composer=Composer Island
 str_island_temmie=Temmie Village
+str_island_MG=Magestic Island
 str_island_NV=Natural Valley
 Monsters/composer/Monster_potbelly_composer=Potbelly
 Monsters/composer/Monster_potbelly_composer_bio=Potbelly bio
