@@ -19,6 +19,9 @@ Plasma Pea
 Commando Pea
 Agent Peashooter
 Silly Peashooter
+Peaness
+Apeacalypse
+Penelopea
 ;
 Monsters/Monster_flowerning
 Flowerone
