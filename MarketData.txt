@@ -1246,6 +1246,10 @@ NV
 monsters:
 -
 decorations:
+Decoration/Dog
+Decoration/Dog
+Decoration/Dog
+Decoration/Dog
 Decoration/Decoration_test
 Decoration/Decoration_test1
 Decoration/Decoration_test2
@@ -1261,7 +1265,6 @@ Decoration/Decoration_test11
 Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
-Decoration/Dog
 -
 structures:
 Structures/Structure_bass
