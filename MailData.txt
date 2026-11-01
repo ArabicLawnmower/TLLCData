@@ -2,7 +2,7 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 
 tllps-intro;everyone;Welcome to TLLPS!;Heya! Welcome to TLLPS, the private server of the game The Lost Landscapes! Here are some goodies to get you started, but if you want to <color=red>cheat</color>... just press Tab and start writing! Good luck, eh!;icon@new;diamonds@100;foodB@500
 
-tllps-intro;everyone;The TLLPSWITCHB!;Welcome to the TLLPS mod, What It Could Have Been, made by Silly Peashooter! Here you will see all of the ideas I planned to add in the game, but didn't make it to the final release as I left the team.;icon@new;diamonds@696969
+tllps-intro2;everyone;The TLLPSWITCHB!;Welcome to the TLLPS mod, What It Could Have Been, made by Silly Peashooter! Here you will see all of the ideas I planned to add in the game, but didn't make it to the final release as I left the team.;icon@new;diamonds@696969
 
 intro2;everyone;Regarding the unofficial links;If you have downloaded TLLPS anywhere that isn't the official Hacked Landscapes discord, do NOT share the link you used but the official discord one (where you should join to get the original version AND to actually support us, unlike those who spread the fake download): https://discord.gg/ZxTPRE2GXC\n\nThere is a list of people who have shared TLLPS without crediting the owner. If it's someone on YouTube, unsubscribe to them.\n\nElicrabs (YouTube)\nminecrafter_random (Reddit)\nJbneves (YouTube)\nMuppets Sandbox (Telegram)\ntery222k (YouTube)\nDim-TimMSM (YouTube)\nMUNDODOLEO4871 (YouTube)\nYarikgdpo (YouTube);icon@eco;diamonds@25
 
