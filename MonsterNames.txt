@@ -1,3 +1,18 @@
+Monsters/Monster_peashooter
+Peashooter
+Beeshooter
+Sweet Pea
+Ice Pea
+Fire Pea
+Plasma Pea
+Commando Pea
+Agent Peashooter
+Silly Peashooter
+;
+Monsters/Monster_flowerning
+Flowerone
+Flowerning
+;
 Monsters/Monster_likho_rare
 Likho-ad
 Barbatan
