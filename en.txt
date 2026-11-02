@@ -165,6 +165,8 @@ Monsters/Monster_wibbler_young=Young Wubbox
 Monsters/Monster_wibbler_young_bio=Young Wubbox Bio
 Monsters/Monster_flowerning=Flowerning
 Monsters/Monster_flowerning_bio=Flowernings are wonderful little creatures from a very far away world that really love flowers. They use the magic inside flowers to grow even more flowers, which is pretty astonishing if you think about it.\n\nNo one really knows exactly how they do it. Some people say they can feel the magic inside every flower and help it spread. When a Flowerning is nearby, flowers start growing faster and gardens become enormous.\n\nSo if you ever see flowers appearing where there weren’t any before… a Flowerning was probably there. Just watch out for any double headed red flower...
+Monsters/Monster_flower3=Flower 3
+Monsters/Monster_flowerning_bio=The third documented specimen from Flower Island, and the only one alongside Flowerning that managed to land on Floating City... These double headed flowers are mischievous little (not-very-little) beings that love to jump around! They tend to be "quiet pranksters", as they think their voice doesn't fit their look. And if you see their faces change- Don't escape, they're just trying to make you laugh!
 Monsters/Monster_peashooter=Peashooter
 Monsters/Monster_peashooter_bio=How can a single plant grow and shoot so many peas so quickly? Peashooter says, "Hard work, commitment, and a healthy, well-balanced breakfast of sunlight and high-fiber carbon dioxide make it all possible." There also has been a rumor of one single and silly Peashooter travelling to the future and starting a beautiful relationship with one of the Gamma monsters... I wonder who that is?
 
