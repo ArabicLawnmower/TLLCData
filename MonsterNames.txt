@@ -26,6 +26,15 @@ Penelopea
 Monsters/Monster_flowerning
 Flowerone
 Flowerning
+Floweray
+Sunshine
+Former
+;
+Monsters/Monster_flower3
+Flowerthree
+DoubleHead
+Rain
+Latter
 ;
 Monsters/Monster_choral
 Coralline
