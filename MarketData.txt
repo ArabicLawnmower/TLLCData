@@ -178,6 +178,7 @@ Monsters/Monster_punkleton_young
 Monsters/Monster_yool_young
 Monsters/Monster_wibbler_young diamonds=10000
 Monsters/Monster_flowerning
+Monsters/Monster_flower3
 Monsters/Monster_peashooter
 -
 monsters_celestials:
