@@ -1251,6 +1251,7 @@ NV
 monsters:
 Monsters/Monster_potbelly
 Monsters/Monster_potbellyGM
+Monsters/Monster_quibble
 -
 decorations:
 Decoration/Dog
