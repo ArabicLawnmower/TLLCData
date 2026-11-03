@@ -2,7 +2,7 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 
 tllps-intro;everyone;Welcome to TLLPS!;Heya! Welcome to TLLPS, the private server of the game The Lost Landscapes! Here are some goodies to get you started, but if you want to <color=red>cheat</color>... just press Tab and start writing! Good luck, eh!;icon@new;diamonds@100;foodB@500
 
-tllps-intro2;everyone;The TLLPSWITCHB!;Welcome to the TLLPS mod, What It Could Have Been, made by Silly Peashooter! Here you will see all of the ideas I planned to add in the game, but didn't make it to the final release as I left the team.;icon@new;diamonds@696969
+tllps-intro2;everyone;The TLLPSWITCHB!;Welcome to the TLLPS mod, What It Could Have Been, made by Silly Peashooter! Here you will see all of the ideas I planned to add in the game, but didn't make it to the final release as I left the team.;icon@new;diamonds@69
 
 tllps-intro3;everyone;What is different?;You may be wondering what is different here from the original TLLPS? Well, as of now, all the differences are: Young wubbox sings, Flowerning, Peashooter, Dog singing on Terra of Organs and Natural Valley, Natural Valley (new island!!!), and Gamma Water Island has a whole new expansion with Olgaropipe having 3 new tracks!;icon@new;coins@1
 
