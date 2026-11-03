@@ -478,6 +478,12 @@ Puksus
 Omaga
 Mike
 ;
+Monsters/Monster_sakurra
+Pinky
+Fiddlebun
+Erhuney
+Sakurray
+;
 Monsters/Monster_whimstlop,Monsters/Monster_whimstlop_meduza
 Wizzle
 Hoyssuroo
