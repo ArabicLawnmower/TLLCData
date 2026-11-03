@@ -399,8 +399,10 @@ Monsters/Monster_theremind
 Monsters/Monster_oaktopus
 Monsters/Monster_boskus
 Monsters/Monster_cybop
+Monsters/Monster_quibble
 Monsters/Monster_denchuhs
 Monsters/Monster_clamble
+Monsters/Monster_sakurra
 Monsters/Monster_shellbeat
 Monsters/Monster_schmoochle
 Monsters/Monster_plixie
@@ -412,6 +414,8 @@ monster_rares:
 Monsters/Monster_oaktopus_rare
 -
 decorations:
+Decoration/Dog
+Decoration/Dog
 Decoration/Decoration_test
 Decoration/Decoration_test1
 Decoration/Decoration_test2
