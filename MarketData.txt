@@ -765,12 +765,6 @@ Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
 Monsters/Monster_wubbox_rare_undof
 Monsters/Monster_jobo
-Monsters/Monster_dipster_2
-Monsters/Monster_dipster_3
-Monsters/Monster_dipster_4
-Monsters/Monster_dipster_5
-Monsters/Monster_dipster_6
-Monsters/Monster_dipster_7
 -
 monster_secret:
 Monsters/Monster_treble
