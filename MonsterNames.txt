@@ -36,6 +36,18 @@ DoubleHead
 Rain
 Latter
 ;
+Monsters/Monster_pig
+Piggles
+Rosswell
+Snortley
+Hamlet
+Oinkbert
+King Squeals
+Pigmund
+Wheezel
+Baconson
+Leonard
+;
 Monsters/Monster_shellbeat
 Shellby
 Squidrum
