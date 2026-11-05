@@ -7,6 +7,12 @@ MonsterLockedBio=You didn't unlock this one yet. Search the shop. Loser. Ha. Hah
 
 gamma water pummel name - Wabdabuana (Raw asked tp add that here
 
+#GAMMIFIER#
+str_gammifier_craft=Craft
+str_gammifier_teleport=Teleport
+Structures/Structure_gammifier=Gammifier
+Structures/Structure_gammifier_bio=A structure built by the Gamma Water Island monsters, to make their population grow bigger and to travel through time and space. Thanks to this, you can meet monsters like Tabicrab and send monsters elsewhere, such as Kelpebbul to his realm, the Natural Valley.
+
 #BABY SINGLES#
 Monsters/Monster_potbelly_young=Young Potbelly
 Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other monsterlings, Two times Zero is still Zero. 
@@ -1218,6 +1224,8 @@ Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... It seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think.
 Monsters/Monster_kryst=Kryst'ell
 Monsters/Monster_kryst_bio=Probably the most complex monster in the entirety of Gamma Water Island, this poor entity has suffered loads of traumas; After Hyddrid took over and everyone changed identities, Kryst'ell had encountered some horrible malfunctions, being fossilized during the process, making them not be able to live at all. Luckily, someone immediately came to help- and who if not Olgaropipe? After several attempts, Kryst- Now proudly calling themselves Kryst'ell, has found a way to breathe through it's crystals using enhanced plasma blood. Too bad they still have no eyelids...\nGiven Olgaropipe has helped Kryst'ell become who they are now, this rocky creature will follow Olga in every single island they go in. Except when Olgaropipe manages to silently sneak out without anyone noticing.\nSomething else about Kryst'ell? Back when Dog lived with the Gamma monsters, the little time traveler had shown them the far future of a parallel era; from that moment on, Kryst'ell always thought "Woah, Thlugg is so ugly!"
+Monsters/Monster_tabicrab=Tabicrab
+Monsters/Monster_tabicrab_bio=pleis holda
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
 
