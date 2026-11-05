@@ -48,6 +48,14 @@ Wheezel
 Baconson
 Leonard
 ;
+Monsters/Monster_kryst
+Jii'sas
+Stongy
+Wrock
+Krystian
+Fwossil
+Stook
+;
 Monsters/Monster_shellbeat
 Shellby
 Squidrum
