@@ -13,6 +13,8 @@
 
 4 Monsters/Knott_special special BlueLog=40,Rock=40,Wool=40,Bone=40,Vortex=15 20000,15000,20000 36000,25200,259200 0,0,12
 
+5000 Monsters/Monster_tabicrab 1 Rock=20,Bone=10,Wool=10 25000,25000,25000 3600,3600,3600 5,5,5
+
 1000 Monsters/Knott_1_rare 1 Log=20,Fabric=3,Jewel=10 15 36000 5
 1000 Monsters/Knott_2_rare 2 Log=5,Fabric=15,Jewel=5 15 36000 5
 1000 Monsters/Knott_5_rare 5 Jewel=20,Relic=3 15 36000 5
