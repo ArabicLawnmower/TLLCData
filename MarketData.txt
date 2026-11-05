@@ -1282,6 +1282,7 @@ Monsters/Monster_furcorn
 Monsters/Monster_bowgart
 -
 decorations:
+Monsters/Monster_krillby_dof
 Decoration/Decoration_test
 Decoration/Decoration_test1
 Decoration/Decoration_test2
