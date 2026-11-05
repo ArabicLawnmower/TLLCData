@@ -2268,3 +2268,12 @@ Stompy
 The Jawbreaker
 PurpleMan
 ;
+Decoration/Dog
+Dog
+Dog goD
+Dogie
+Doggy
+Arf
+Bark
+Woof
+;
