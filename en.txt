@@ -832,7 +832,7 @@ Decoration/Obstacle_placable_Knott_10=<ref>Decoration/Obstacle_Knott_10
 Decoration/Obstacle_placable_Knott_10_bio=Azu help idk what to write!
 
 Decoration/Dog=Dog
-Decoration/Dog_bio=Ah, the Dog. A beautiful little creature that has been adopted by the monsterkind... They call it "time traveller". This peculiar being once could call the Gamma Water Island it's home, but given how harsh that ambient it, it had to move away. Luckily, Dog did not get lost- Handmond and Sakurra found it and took it to sing with them in the Terra Of Organs. Who knows where else this little troublemaker will go? Dog goD.
+Decoration/Dog_bio=Ah, the Dog. A beautiful little creature that has been adopted by the monsterkind... They call it "time traveller". This peculiar being once could call the Gamma Water Island it's home, but given how harsh that ambient is, it had to move away. Luckily, Dog did not get lost- Handmond and Sakurra found it and took it to sing with them in the Terra Of Organs. Who knows where else this little troublemaker will go? Dog goD.
 
 str_breeding=You've bred:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
@@ -1217,7 +1217,7 @@ Monsters/Monster_potbellyGM_bio=After the strange events that led to the ruins o
 Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... It seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think.
 Monsters/Monster_kryst=Kryst'ell
-Monsters/Monster_kryst_bio=Kryst'ell bio
+Monsters/Monster_kryst_bio=Probably the most complex monster in the entirety of Gamma Water Island, this poor entity has suffered loads of traumas; After Hyddrid took over and everyone changed identities, Kryst'ell had encountered some horrible malfunctions, being fossilized during the process, making them not be able to live at all. Luckily, someone immediately came to help- and who if not Olgaropipe? After several attempts, Kryst- Now proudly calling themselves Kryst'ell, has found a way to breathe through it's crystals using enhanced plasma blood. Too bad they still have no eyelids...\nGiven Olgaropipe has helped Kryst'ell become who they are now, this rocky creature will follow Olga in every single island they go in. Except when Olgaropipe manages to silently sneak out without anyone noticing.\nSomething else about Kryst'ell? Back when Dog lived with the Gamma monsters, the little time traveler had shown them the far future of a parallel era; from that moment on, Kryst'ell always thought "Woah, Thlugg is so ugly!"
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
 
