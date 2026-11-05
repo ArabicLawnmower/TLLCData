@@ -3,7 +3,7 @@ WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious 
 
 DipsterBio=Timid in the light, Dipsters make their homes underground. The muffled monster music from above gives Dipsters the courage to rise and join the harmonious melody! ... although it may only be one note at a time. Dipsters are resourceful creatures, and collect natural materials to disguise the entrances to their tunnels. No one knows how far down a Dipster hole goes.
 
-MonsterLockedBio=You didn't unlock this one yet. Search the shop.
+MonsterLockedBio=You didn't unlock this one yet. Search the shop. Loser. Ha. Hahaha. Ez.
 
 gamma water pummel name - Wabdabuana (Raw asked tp add that here
 
@@ -74,7 +74,7 @@ Monsters/Monster_punkleton_young_bio=Boo! Young Punkletons are said to have emer
 Monsters/Monster_potbelly=Potbelly
 Monsters/Monster_potbelly_bio=The adult potbelly is a loud and extroverted creature, constantly babbling nonsense to everyone who can hear. Whilst other monsters would love to stay around and listen, eventually a potbelly may take off its pot and settle into the jabber, sometimes not even noticing the rooty tendrils engulfing it’s eager listener. Luckily, these days monsters have learned to stay away or gently remind the potbelly, and things go smooth from there.
 Monsters/Monster_mammott=Mammott
-Monsters/Monster_mammott_bio=Mammott bio
+Monsters/Monster_mammott_bio=Mammott bio (om bom bom)
 Monsters/Monster_tweedle=Tweedle
 Monsters/Monster_tweedle_bio=Psst? Did you hear that? The featherbrained Tweedle probably did! This gossip gathering monster is known for its abysmal secret-keeping ability- but all the fellow monsters keep it around, for its signature calming coo.
 Monsters/Monster_toejammer=Toe Jammer
@@ -274,7 +274,7 @@ Monsters/Monster_jobo=Jodel
 Monsters/Monster_jobo_bio=As sweetened Werdo, Jodel knows alot about Candy Island's colossal, as it knows how it was made, but it knows every single monster's likes as Jodel knew when Jam Boree will arrive.
 
 Monsters/Monster_treble=Ethenor
-Monsters/Monster_treble_bio=Ethenor bio
+Monsters/Monster_treble_bio=EthAnus bio
 
 Monsters/Monster_dipster_1=Do
 Monsters/Monster_dipster_1_bio=<ref>DipsterBio
@@ -298,13 +298,13 @@ Monsters/Monster_wheezel=Wheezel
 Monsters/Monster_wheezel_bio=Pop! goes the Wheezel… or maybe it's more like a plop. Of course the Earth Mythical would dream up some bizarre, sibilating automaton like this. Of course it would be based on a classic prank like a jack-in-the-box. Of course the Dreamythical's outer shell would be adorned with the same unusual symbols that cover its creator's pelt. Long before its creation in the dreamspace, toys just like it would find their way into the possession of beings across the Monster World, and would subject the unsuspecting to a startling surprise - undoubtedly the handiwork of its progenitor. A Monster of this style calls to mind the unusual life-forms of Wublin Island; it just goes to show that if you can dream it, the power of dreamcraft will make it a reality!
 
 Monsters/Monster_wheezel_rock=Wheezel Rock
-Monsters/Monster_wheezel_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
+Monsters/Monster_wheezel_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten. Hopefully it won't be a wet dream.
 
 Monsters/Monster_knurv=Knurv
 Monsters/Monster_knurv_bio=Over the course of its multiversal sojourns, the Fire Haven Mythical has had the opportunity to observe and partake of various cultures and civilizations. It's particularly interested in folklore, but there's one legend that has gripped its imagination from the first moment it heard it - that of the Knurv. Known by another name in its native dimension, tales relate that this 'bogeyMon' of sorts extends its elongated optic nerves to spy on others without their knowledge. On Mythical Island, it has been reimagined using dreamcraft as an enthusiastic musical performer; using its optic nerves not for spying, but for creating captivating melodies reminiscent of its Mythical creator.
 
 Monsters/Monster_knurv_rock=Knurv Rock
-Monsters/Monster_knurv_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
+Monsters/Monster_knurv_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten. Hopefully it won't be a dry dream.
 
 Monsters/Monster_reebro=Reebro
 Monsters/Monster_reebro_bio=Of all the creatures known in the multiverse, the Reebro is right up there with the strangest. Little more than an oversized brain to begin with, this Ethereal beast develops a mechanical body using its instinctual technological know-how. The Reebro, or simply 'Bro' as it is affectionately called by its fellow Monsters, is a laid-back character who lives for fun and has the scoop on all the latest trends. It's always willing to assist others with their 'Mech'-nical difficulties - even if its go-to solution is to 'turn it off and then turn it on again.
@@ -370,7 +370,7 @@ Monsters/Monster_varrow_rare=Rare Varrow
 Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside a nutshell, inside a berry, in a cloth, place it in a chest, and bury it at the bottom of the marsh's waters? A Rare Varrow, that's what! These queer monsters have a penchance to anything puzzling and paradoxical- including themselves! While it's unknown how these odd monsters came into existence, they're here to stay, boasting their garments and trinkets from distant lands and giving everyone something to ponder every chance they get...
 
 Monsters/Monster_banno_rare=Rare Banno
-Monsters/Monster_banno_rare_bio=Rare Banno bio
+Monsters/Monster_banno_rare_bio=Rare Idiot bio
 
 Monsters/Special/Monster_melochness=Meloch-Ness
 Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit.
@@ -381,7 +381,7 @@ Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_
 Monsters/Knott_1=Knottshurr Tree
 Monsters/Knott_1_bio=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the island. Its bark is almost pertified and impenetrable by most of the vermins and predators. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
 Monsters/Knott_2=Bay
-Monsters/Knott_2_bio=Bay bio
+Monsters/Knott_2_bio=Bay Bye Bio... wha??
 Monsters/Knott_3=Souxls Vessel
 Monsters/Knott_3_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
 Monsters/Knott_4=BoOoo
@@ -389,7 +389,7 @@ Monsters/Knott_4_bio=All those who hail from the Thumpiverse are well versed in 
 Monsters/Knott_5=Mount Tuzzpikk
 Monsters/Knott_5_bio=Mount Tuzzpikk was a regular Knott-rock that got affected by the Knottsurr magic, emmited from the mystical orbs found across the Knottsurr Island. It gained musical abilities and immediately after being animated, started to sing. It knows many compositions but "Pearrdesh Slougna" and "Ellepharrth" by "DJ. Goldenduck" is the closest to its rock heart. You can find it humming the melody non-stop whenever it's not singing.\nLeaving the island would result in reverting to its initial state of non-sentience. Unless it carries one of the sources of Knottsurr magic with it wherever it goes.
 Monsters/Knott_6=Mount Mound
-Monsters/Knott_6_bio=Mount Mound bio
+Monsters/Knott_6_bio=Mount Mound dio
 Monsters/Knott_7=Flocca
 Monsters/Knott_7_bio="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception helps to identify any types of bone injuries, helping monsters around in case of an accident.
 Monsters/Knott_8=Cleomace
@@ -397,9 +397,9 @@ Monsters/Knott_8_bio=Cleomace bio
 Monsters/Knott_9=Babushka Knittshurr
 Monsters/Knott_9_bio=Meet the friendliest creature in The Lost World. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
 Monsters/Knott_10=Bel'yawn Zirro
-Monsters/Knott_10_bio=Bel'yawn Zirro bio
+Monsters/Knott_10_bio=Bel'yawn Zarroe
 Monsters/Knott_special=Chimbickle
-Monsters/Knott_special_bio=Chimbickle bio
+Monsters/Knott_special_bio=Chimdiddle bio
 
 Monsters/Knott_1_rare=Rare Knottshurr Tree
 Monsters/Knott_1_rare_bio=Thanks to the greening stalk-like body of Rare Knottshurr Tree, provided by one of the BoOoos, it developed an anti-nymph odor, keeping them safe from those nasty plantcarvers. However, the newly developed smell just so happened to be chemically similar to the flitterfly pheromones. Thus, attracting even peskier pests. Long story short, it's now a flitterfly nest. 
@@ -748,7 +748,7 @@ Decoration/Obstacle_placable_EM_6=<ref>Decoration/Obstacle_EM_6
 Decoration/Obstacle_placable_EM_6_bio=<ref>ObstaclePlacableShroom_bio
 
 ObstacleCommonRocks_bio=Removed rocks will be taken far away to wonderful new homes.
-ObstacleCommonTrees_bio=Don't worry; removed trees will be taken far away and gently replanted in their wonderful new homes.
+ObstacleCommonTrees_bio=Don't worry; removed trees will be taken far away and gently replanted in their wonderful new homes. HAHAHAH JK I MURDER THEM ALL. LET IT NOT GROW
 
 Decoration/Obstacle_Candy_1=Small Rock
 Decoration/Obstacle_Candy_1_bio=It's a Small Rock. <ref>ObstacleCommonRocks_bio
@@ -832,7 +832,7 @@ Decoration/Obstacle_placable_Knott_10=<ref>Decoration/Obstacle_Knott_10
 Decoration/Obstacle_placable_Knott_10_bio=Azu help idk what to write!
 
 Decoration/Dog=Dog
-Decoration/Dog_bio=why the actual fuck did the devs make this
+Decoration/Dog_bio=Ah, the Dog. A beautiful little creature that has been adopted by the monsterkind... They call it "time traveller". This peculiar being once could call the Gamma Water Island it's home, but given how harsh that ambient it, it had to move away. Luckily, Dog did not get lost- Handmond and Sakurra found it and took it to sing with them in the Terra Of Organs. Who knows where else this little troublemaker will go? Dog goD.
 
 str_breeding=You've bred:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
@@ -939,11 +939,11 @@ str_popup_unlock=You discovered:\n<name>
 str_popup_notOnThisIsland=This item is not available on this island.
 str_popup_masherNoItemsSelected=You need to select items to mash! If you have none, try collecting some, or crafting some!
 str_popup_masherLimitReached=You have reached the limit of items you can add to the Masher!
-str_popup_stargazerNotRightLevel=The Observatory can not be activated yet. Expand your island first.
+str_popup_stargazerNotRightLevel=The Observatory can not be activated yet. Expand your island first you idiot.
 
 str_popup_mapIsalndNotFinished=just press ok on this one, it should've been island not finished popup
 
-str_popup_islandComingSoon=New and Exciting things coming soon!
+str_popup_islandComingSoon=New and Exciting amogas coming soon!
 str_popup_islandAlreadyOn=You are already on this island.
 
 str_island_comingsoon=Coming Soon!
@@ -984,7 +984,7 @@ str_island_TI=Tutor's Island
 str_island_TI_bio=This huge tree is tree-schoolhouse for young monsters. They are sent here to learn how to sing again! Thank to few monsters, now natural and fire can sing again and they will grow up to move into new home, well not sure if they will feel like it or not but it’ll work, right?
 
 str_island_GM=Gamma Water Island
-str_island_GM_bio=Gamma Water Island bio
+str_island_GM_bio=Gamma Water Island piss
 
 str_island_EgyptPipes=Archaic Dunes
 str_island_EgyptPipes_bio=So, where were 3 fire expansion monsters goes, to safe zone in monsters world! This place is final remaining place for monsters world, it may seem desolated zone but it is very habitable place! It encased in invisible dome as final act of colossal. Now the monsters can enjoy the life in dunes!
@@ -1216,6 +1216,8 @@ Monsters/Monster_potbellyGM=Kelpebbul
 Monsters/Monster_potbellyGM_bio=After the strange events that led to the ruins of the monster world being transferred to a realm outside of space and time, the islands we know and love were turned into Gamma Islands, their inhabitants reborn into spectacular new forms. One such example is the Kelpebbul, the reformed plant elemental, who dazzles with a dreamy demeanor and charms with the sweetest of smiles. These stone monsters have the power to imbue lifeforce into any plant, rejuvinating flora of all sorts and giving them means to vocalize. These sprouts tend to have strange and unique voices, a result of discovering their singing abilities the first time. 
 Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... It seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think.
+Monsters/Monster_kryst=Kryst'ell
+Monsters/Monster_kryst_bio=Kryst'ell bio
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
 
