@@ -2,10 +2,4 @@
 # Monsters/Monster_x=Island
 # To turn the monster into another form on arrival:   Monsters/Monster_x=Island>Monsters/Monster_final
 # Island = the island code (EM, Desert, Organs, NV, City ...).
-Monsters/Monster_olga=EM
-Monsters/Monster_olga=City
 Monsters/Monster_potbellyGM=NV
-Monsters/Monster_potbellyGM=City
-Monsters/Monster_quibbleGM=NV
-Monsters/Monster_tabicrab=EM
-Monsters/Monster_tabicrab=City
