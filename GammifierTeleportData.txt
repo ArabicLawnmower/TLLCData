@@ -1,5 +1,6 @@
 # Gammifier teleport destination
 # Monsters/Monster_x=Island
 # To turn the monster into another form on arrival:   Monsters/Monster_x=Island>Monsters/Monster_final
+# Optional diamond cost at the end of the line (default 10):   Monsters/Monster_x=Island 25   or   Monsters/Monster_x=Island>Monsters/Monster_final 25
 # Island = the island code (EM, Desert, Organs, NV, City ...).
-Monsters/Monster_potbellyGM=NV
+Monsters/Monster_potbellyGM=NV 65
