@@ -1,0 +1,11 @@
+# Gammifier teleport destination
+# Monsters/Monster_x=Island
+# To turn the monster into another form on arrival:   Monsters/Monster_x=Island>Monsters/Monster_final
+# Island = the island code (EM, Desert, Organs, NV, City ...).
+Monsters/Monster_toejammer=EM
+Monsters/Monster_toejammer=City
+Monsters/Monster_potbelly=NV
+Monsters/Monster_potbelly=City
+Monsters/Monster_quibble=NV
+Monsters/Monster_tabicrab=EM
+Monsters/Monster_tabicrab=City
