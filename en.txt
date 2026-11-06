@@ -10,7 +10,7 @@ gamma water pummel name - Wabdabuana (Raw asked tp add that here
 #GAMMIFIER#
 str_gammifier_craft=Craft
 str_gammifier_teleport=Teleport
-str_gammifier_confirm=Are you sure you want to teleport this monster?
+str_gammifier_confirm=Teleport this monster to <color="green"><islandName></color>?\nCost: <cost> <sprite name=diamonds>
 Structures/Structure_gammifier=Gammifier
 Structures/Structure_gammifier_bio=A structure built by the Gamma Water Island monsters, to make their population grow bigger and to travel through time and space. Thanks to this, you can meet monsters like Tabicrab and send monsters elsewhere, such as Kelpebbul to his realm, the Natural Valley.
 
