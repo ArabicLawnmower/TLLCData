@@ -1408,6 +1408,8 @@ monsters:
 Monsters/Monster_krillby_dof
 Monsters/Monster_mammott
 Monsters/Monster_toejammer
+Monsters/Monster_potbelly
+Monsters/Monster_maw
 Monsters/Monster_varrow
 Monsters/Monster_shellbeat
 Monsters/Monster_gecho
