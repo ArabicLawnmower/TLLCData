@@ -14,6 +14,13 @@ str_gammifier_confirm=Teleport this monster to <color="green"><islandName></colo
 Structures/Structure_gammifier=Gammifier
 Structures/Structure_gammifier_bio=A structure built by the Gamma Water Island monsters, to make their population grow bigger and to travel through time and space. Thanks to this, you can meet monsters like Tabicrab and send monsters elsewhere, such as Kelpebbul to his realm, the Natural Valley.\n\n\nConcept art by Specks!
 
+
+#SETTINGS#
+str_setting_celestial_dates=Celestial Dates
+str_setting_breeding_combos=Breeding Combos
+
+
+
 #BABY SINGLES#
 Monsters/Monster_potbelly_young=Young Potbelly
 Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other monsterlings, Two times Zero is still Zero. 
