@@ -151,6 +151,7 @@ Monsters/Monster_theremind coins=400 psychic 14400 10 coins=1@120@coins=90 Magic
 Monsters/Monster_theremind_meduza coins=400 psychic 14400 10 coins=1@120@coins=90 Magical theremind,theremind 6 0
 
 Monsters/Monster_handmond coins=400 organ 14400 10 coins=1@65@coins=450 Lost handmond,handmond 6 0
+Monsters/Monster_handmond_new coins=400 organ 14400 10 coins=1@65@coins=450 Lost handmond,handmond 6 0
 Monsters/Monster_whimstlop diamonds=250 organ 14400 10 coins=2@120@coins=650 Lost whimstlop,whimstlop 8 0
 Monsters/Monster_sakurra diamonds=500 organ 28800 10 coins=3@240@coins=850 Lost sakurra,sakurra 11 0
 Monsters/Monster_whimstlop_meduza coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
