@@ -551,6 +551,9 @@ Monsters/Knott_special_rare_bio=Chimblickle bio
 Monsters/Monster_handmond=Handmond
 Monsters/Monster_handmond_bio=Handmond bio yeah i'll add it someday, goon priorities for now
 
+Monsters/Monster_handmond_new=Handmond
+Monsters/Monster_handmond_new_bio=Handmond bio goon priorities I said, what are ya lookin at?
+
 Monsters/Monster_whimstlop=Whimstlop
 Monsters/Monster_whimstlop_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
 Monsters/Monster_whimstlop_meduza=<ref>Monsters/Monster_whimstlop
