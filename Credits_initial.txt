@@ -1,6 +1,7 @@
 <Title>str_credits_main
 ThePixelMoon - lead programmer (pussy)
 Silly Peashooter - artist,composer,animator & developer
+Specks - Concept artist
 
 And of course,
 Raw Zebra and his team
@@ -12,4 +13,4 @@ MarcelSock for having an archive of the server files
 galliumanimations for the normal Calamity Island sketch that fits the new one
 егор for егор'ing all over the place
 
-and everyone in the discord server for supporting me
+and everyone in the discord server for supporting us
