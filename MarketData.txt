@@ -1025,7 +1025,7 @@ Monsters/Monster_quibble
 Monsters/Monster_oaktopus
 Monsters/Monster_reedling_young_singer
 Monsters/Monster_loodvigg
-Monsters/Monster_spurrit
+Monsters/Monster_spurrit Vortex=10
 -
 monster_rares:
 Monsters/Monster_quibble_rare
