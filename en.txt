@@ -1359,6 +1359,10 @@ Monsters/Monster_tabicrab=Tabicrab
 Monsters/Monster_tabicrab_bio=pleis holda
 Monsters/Monster_cybopGM=Hormakler
 Monsters/Monster_cybopGM_bio=WIP
+Monsters/Monster_shrubbGM=Stemion
+Monsters/Monster_shrubbGM_bio=WIP
+Monsters/Monster_phanglerGM=Blaindaye
+Monsters/Monster_phanglerGM_bio=WIP
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
 
