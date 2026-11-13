@@ -12,6 +12,7 @@ Monsters/Monster_quibble_rare 70 _rare
 Monsters/Monster_dandidoo 70
 Monsters/Monster_wadee 65
 Monsters/Monster_likho 65
+Monsters/Monster_likho_rare 65 _rare
 Monsters/Monster_varrow 65
 Monsters/Monster_varrow_rare 65 _rare
 Monsters/Monster_spunge 40
@@ -80,7 +81,9 @@ Monsters/Monster_theremind 60
 Monsters/Monster_clamble 50
 
 Monsters/Monster_whimstlop=Monsters/Monster_handmond+Monsters/Monster_cybop 40
+Monsters/Monster_whimstlop=Monsters/Monster_handmond_new+Monsters/Monster_cybop 40
 Monsters/Monster_sakurra=Monsters/Monster_handmond+Monsters/Monster_boskus 40
+Monsters/Monster_sakurra=Monsters/Monster_handmond_new+Monsters/Monster_boskus 40
 ;
 Candy:
 Monsters/Monster_toejammer_undof 85
