@@ -1357,8 +1357,11 @@ Monsters/Monster_kryst=Kryst'ell
 Monsters/Monster_kryst_bio=Probably the most complex monster in the entirety of Gamma Water Island, this poor entity has suffered loads of traumas; After Hyddrid took over and everyone changed identities, Kryst'ell had encountered some horrible malfunctions, being fossilized during the process, making them not be able to live at all. Luckily, someone immediately came to help- and who if not Olgaropipe? After several attempts, Kryst- Now proudly calling themselves Kryst'ell, has found a way to breathe through it's crystals using enhanced plasma blood. Too bad they still have no eyelids...\nGiven Olgaropipe has helped Kryst'ell become who they are now, this rocky creature will follow Olga in every single island they go in. Except when Olgaropipe manages to silently sneak out without anyone noticing.\nSomething else about Kryst'ell? Back when Dog lived with the Gamma monsters, the little time traveler had shown them the far future of a parallel era; from that moment on, Kryst'ell always thought "Woah, Thlugg is so ugly!"
 Monsters/Monster_tabicrab=Tabicrab
 Monsters/Monster_tabicrab_bio=pleis holda
+Monsters/Monster_cybopGM=Hormakler
+Monsters/Monster_cybopGM_bio=WIP
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
+
 
 str_island_Minigame_YapLeap=Yap Leap
 
