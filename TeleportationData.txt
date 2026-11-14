@@ -193,4 +193,6 @@ Monsters/Monster_spunge= 0
 NV 97511 30
 Monsters/Monster_potbelly_young=Monsters/Monster_potbelly 30
 Monsters/Monster_quibble_young=Monsters/Monster_quibble 30
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 30
+Monsters/Monster_spunge_young=Monsters/Monster_spunge 30
 ;
