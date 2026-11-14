@@ -164,6 +164,11 @@ Monsters/Monster_fwog_young=Monsters/Monster_kryst 20
 Monsters/Monster_cybop_young=Monsters/Monster_cybopGM 20
 Monsters/Monster_shrubb_young=Monsters/Monster_shrubbGM 20
 Monsters/Monster_phangler_young=Monsters/Monster_phanglerGM 20
+Monsters/Monster_noggin_young=Monsters/Monster_nogginGM 20
+Monsters/Monster_shellbeat_young=Monsters/Monster_shellbeatGM 20
+Monsters/Monster_cranchee_young=Monsters/Monster_crancheeGM 20
+Monsters/Monster_reedling_young=Monsters/Monster_reedlingGM 20
+Monsters/Monster_spunge_young=Monsters/Monster_spungeGM 20
 ;
 dream 0 -999
 Monsters/Monster_mammott_young=Monsters/Monster_mammott_dream 0
