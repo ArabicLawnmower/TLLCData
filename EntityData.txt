@@ -43,6 +43,11 @@ Monsters/Monster_kryst diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma
 Monsters/Monster_cybopGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma cybopGM,cybopGM 0 0
 Monsters/Monster_shrubbGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma shrubbGM,shrubbM 0 0
 Monsters/Monster_phanglerGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma phanglerGM,phanglerGM 0 0
+Monsters/Monster_crancheeGM diamonds=7000 water-g 72000 30 coins=2@80@coins=180 Gamma crancheeGM,crancheeGM 0 0
+Monsters/Monster_reedlingGM diamonds=4000 water-g 72000 30 coins=2@80@coins=180 Gamma reedlingGM,reedlingGM 0 0
+Monsters/Monster_nogginGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma nogginGM,nogginGM 0 0
+Monsters/Monster_spungeGM diamonds=4000 water-g 72000 30 coins=2@80@coins=180 Gamma spungeGM,spungeGM 0 0
+Monsters/Monster_shellbeatGM diamonds=6000 water-g 72000 30 coins=2@80@coins=180 Gamma shellbeatGM,shellbeatGM 0 0
 Monsters/Monster_tabicrab diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma tabicrab,tabicrab 0 0
 
 Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
