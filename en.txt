@@ -1363,8 +1363,19 @@ Monsters/Monster_shrubbGM=Stemion
 Monsters/Monster_shrubbGM_bio=WIP
 Monsters/Monster_phanglerGM=Blaindaye
 Monsters/Monster_phanglerGM_bio=WIP
+Monsters/Monster_reedlingGM=Demounteind
+Monsters/Monster_reedlingGM_bio=WIP (PLACEHOLDER DESIGN)
+Monsters/Monster_spungeGM=Kohrabble
+Monsters/Monster_spungeGM_bio=WIP (PLACEHOLDER DESIGN)
+Monsters/Monster_nogginGM=Bongferjish
+Monsters/Monster_nogginGM_bio=WIP
+Monsters/Monster_shellbeatGM=Zaheentankol
+Monsters/Monster_shellbeatGM_bio=WIP
+Monsters/Monster_crancheeGM=Lihtacle
+Monsters/Monster_crancheeGM_bio=WIP
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
+
 
 
 str_island_Minigame_YapLeap=Yap Leap
