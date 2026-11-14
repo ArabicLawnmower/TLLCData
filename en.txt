@@ -81,6 +81,10 @@ Monsters/Monster_trox_young_bio=Young T-Rox bio
 #BABY QUADS#
 Monsters/Monster_gloptic_young=Young Gloptic
 Monsters/Monster_gloptic_young_bio=Gloptic puddlings are notoriously slippery, with their specialized mucus having been spread across almost all of their body via tumbles spurred on by juvenile clumsiness. Gloptics, being a lineage adapted to far lower gravity, take a long time to get used to mobilization after all! As a result, one may think their large, exposed eyeball would be the first subject of harm, but that's not the case! Gloptic puddlings actually posess a far thicker coating around their eyeballs, like a secondary lens that is shed as they get older. However, this lens, which often gets covered by slime itself, often merely clouds the gloptic's vision further, causing yet more slips and stumbles... It's best to use padding when crafting the ideal habitat for a young Gloptic.
+Monsters/Monster_shellbeat_young=Young Shellbeat
+Monsters/Monster_shellbeat_young_bio=Young Shellbeat Bio
+Monsters/Monster_deedge_young=Young Deedge
+Monsters/Monster_deedge_young_bio=Young Deedge Bio
 
 #BABY SEASONALS#
 Monsters/Monster_punkleton_young=Young Punkleton
