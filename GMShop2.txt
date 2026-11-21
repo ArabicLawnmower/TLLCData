@@ -2,8 +2,15 @@ GM
 monsters:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
-Monsters/Monster_quibbleGM
 Monsters/Monster_kryst
+Monsters/Monster_cybopGM
+Monsters/Monster_shrubbGM
+Monsters/Monster_phanglerGM
+Monsters/Monster_reedlingGM
+Monsters/Monster_nogginGM
+Monsters/Monster_spungeGM
+Monsters/Monster_shellbeatGM
+Monsters/Monster_crancheeGM
 -
 decorations:
 Decoration/Decoration_test
