@@ -108,7 +108,7 @@ Monsters/Monster_gloptic_young diamonds=1000 psychic@water@fire@plant 100800 10 
 
 Monsters/Monster_deedge_young diamonds=1000 plant@cold@air@water 100800 10 coins=10@60@coins=400 Natural deedge,deedge_young 4 0
 
-Monsters/Monster_shellbeat_young diamonds=1000 plant@cold@air@water 100800 10 coins=10@60@coins=400 Natural shellbeat,shellbeat_young 4 0
+Monsters/Monster_shellbeat_young diamonds=1000 plant@air@water@earth 100800 10 coins=10@60@coins=400 Natural shellbeat,shellbeat_young 4 0
 
 
 Monsters/Monster_punkleton_young diamonds=1000 punkleton 43200 25 coins=1@28@coins=400 Seasonal punkleton,punkleton_young 10 0
