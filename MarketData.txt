@@ -1414,7 +1414,6 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_bass
-Structures/Structure_timemachine
 ;
 MG
 monsters:
